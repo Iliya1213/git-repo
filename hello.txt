@@ -1,3 +1,5 @@
-print("Hello;")
-print("everybody;")
+print("Hello")
+print("everybody")
+print("everybody2")
 print("test;")
+
